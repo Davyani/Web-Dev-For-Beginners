@@ -731,12 +731,13 @@ If you love logic, simplicity, and data science, Python is incredibly beginner-f
 👉 Personally, Python tends to feel the most approachable for new explorers — it’s forgiving, readable, and incredibly versatile.
 
 ***⚡ Bonus: What Powers the World?***
-|Platform / App |	Main Language(s) Used |
-|Instagram| Python (backend), JavaScript (frontend) |
-|Netflix|	JavaScript, Python, Java |
-|Android| Apps (Google)	Kotlin, Java|
-|YouTube|	Python, JavaScript|
-||Uber	Node.js (JavaScript), Python, Go|
+| Platform / App |	Main Language(s) Used |
+|----------------|------------------------|
+| Instagram | Python (backend), JavaScript (frontend) |
+| Netflix |	JavaScript, Python, Java |
+| Android | Apps (Google)	Kotlin, Java |
+| YouTube |	Python, JavaScript |
+| Uber |	Node.js (JavaScript), Python, Go |
 
 ## Let's Celebrate What You've Discovered!
 
