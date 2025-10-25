@@ -41,7 +41,84 @@ Consider exploring tools from these categories:
 
 **Workflow Integration:** [1 sentence about how it fits into development process]
 ```
+### Vite – Build Tool
 
+**Purpose:**
+Vite is a modern front-end build tool that provides a lightning-fast development server and optimized production builds. It leverages native ES modules and hot module replacement (HMR) for an efficient development experience with frameworks like React, Vue, and Svelte.
+
+**Documentation:**
+https://vitejs.dev/
+
+**Workflow Integration:**
+Developers use Vite to spin up local dev environments quickly and bundle web apps efficiently before deploying to production.
+
+## Cypress – Testing Framework
+
+**Purpose:**
+Cypress is an end-to-end testing framework for modern web applications that runs tests directly in the browser. It helps developers validate that features and user flows work correctly by simulating real user interactions.
+
+**Documentation:**
+https://www.cypress.io/
+
+**Workflow Integration:**
+Teams integrate Cypress into CI/CD pipelines to automatically run regression tests before every deployment, ensuring application stability.
+
+## Figma – Design Tool
+
+**Purpose:**
+Figma is a collaborative, cloud-based design tool used to create wireframes, mockups, and interactive prototypes. It allows designers and developers to collaborate in real time, ensuring visual consistency and faster feedback cycles.
+
+**Documentation:**
+https://www.figma.com/
+
+**Workflow Integration:**
+Designers share Figma prototypes with developers to align on UI layouts and ensure accurate implementation of design systems.
+
+## Tailwind CSS – CSS Framework
+
+**Purpose:**
+Tailwind CSS is a utility-first CSS framework that enables developers to build responsive, customizable user interfaces quickly. By using pre-defined utility classes, developers can style elements directly in HTML, reducing the need for custom CSS files.
+
+**Documentation:**
+https://tailwindcss.com/docs
+
+**Workflow Integration:**
+Developers use Tailwind during front-end development to maintain a consistent design language and speed up UI creation.
+
+## GitHub – Version Control Platform
+
+**Purpose:**
+GitHub is a web-based platform for hosting and managing Git repositories. It provides collaboration features such as pull requests, issue tracking, and continuous integration workflows to streamline teamwork and project management.
+
+**Documentation:**
+https://docs.github.com/
+
+**Workflow Integration:**
+Teams use GitHub to collaborate on code, review changes, and manage the version history of software projects.
+
+## Postman – API Development Tool
+
+**Purpose:**
+Postman is a powerful platform for developing, testing, and documenting APIs. It allows developers to send HTTP requests, inspect responses, and automate testing for endpoints—all within an intuitive interface.
+
+**Documentation:**
+https://www.postman.com/
+
+**Workflow Integration:**
+Developers use Postman during backend development to test REST or GraphQL APIs before integrating them with front-end applications.
+
+## Cloudflare Pages – Deployment Platform
+
+**Purpose:**
+Cloudflare Pages is a modern deployment platform for static websites and front-end frameworks. It integrates directly with GitHub and GitLab, offering automatic builds, deployments, and global CDN distribution.
+
+**Documentation:**
+https://developers.cloudflare.com/pages/
+
+**Workflow Integration:**
+Developers connect their GitHub repositories to Cloudflare Pages to automatically deploy websites on every commit, ensuring fast and secure global deliv
+
+----
 ## Quality Guidelines
 
 - **Choose current tools**: Select tools that are actively maintained and widely used in 2025
@@ -58,5 +135,6 @@ Consider exploring tools from these categories:
 | **Provided official documentation links for all tools** | **Provided mostly official links with 1-2 tutorial sites** | **Relied mainly on tutorial sites rather than official documentation** |
 | **Selected current, professionally-used tools from diverse categories** | **Selected good tools but limited variety in categories** | **Selected outdated tools or only from one category** |
 | **Demonstrated understanding of how tools fit into development workflows** | **Showed some understanding of professional context** | **Focused only on tool features without workflow context** |
+
 
 > 💡 **Research Tip**: Look for tools mentioned in job postings for web developers, check popular developer surveys, or explore the dependencies used by successful open-source projects on GitHub!
